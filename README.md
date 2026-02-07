@@ -112,17 +112,18 @@ Tables principales :
 - `orders`
 - `notifications`
 
-Migrations disponibles dans :
-```
+---
+````
+## 🖼️ Captures d’écran
 
-## 🖼️ Captures d’écran (optionnel)
+> Cette section permet de présenter visuellement l’application sur GitHub.
 
-```md
-![Home](screenshots/home.png)
-![Catalog](screenshots/catalog.png)
-![Cart](screenshots/cart.png)
-![Admin Dashboard](screenshots/admin.png)
-```
+### 🏠 Accueil
+![Accueil](/src/screenshots/img_1.png)
+
+### 👕 Section Room page
+![Room page](/src/screenshots/img_2.png)
+---
 
 supabase/migrations/
 
