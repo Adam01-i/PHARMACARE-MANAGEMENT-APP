@@ -1,8 +1,8 @@
-# PROJET-PHARMACIE
+# PHARMACARE-MANAGEMENT-APP
 
 # 📌 **Description du projet**
 
-**DIGITAL PHARMACIE SYSTEM** est une **plateforme web moderne de pharmacie en ligne**, permettant aux utilisateurs de **rechercher des produits pharmaceutiques, gérer un panier, ajouter des favoris, passer des commandes et suivre leur historique**.
+**PHARMACARE-MANAGEMENT-APP** est une **plateforme web moderne de pharmacie en ligne**, permettant aux utilisateurs de **rechercher des produits pharmaceutiques, gérer un panier, ajouter des favoris, passer des commandes et suivre leur historique**.
 
 L’application intègre un **système d’authentification sécurisé**, un **catalogue dynamique avec recherche**, un **panneau de notifications**, ainsi qu’un **espace administrateur** pour la gestion des produits, des commandes et des utilisateurs.
 
@@ -135,8 +135,8 @@ supabase/migrations/
 
 ### 1️⃣ Cloner le projet
 ```bash
-git clone https://github.com/Adam01-i/DIGITAL-PHARMACY-SYSTEM.git 
-cd DIGITAL-PHARMACY-SYSTEM
+git clone https://github.com/Adam01-i/PHARMACARE-MANAGEMENT-APP.git 
+cd PHARMACARE-MANAGEMENT-APP
 ````
 
 ### 2️⃣ Installer les dépendances
